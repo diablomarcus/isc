@@ -1,0 +1,24 @@
+body { 
+  	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	color: #CCCCCC;
+ 	font-size: 10px;
+}
+
+td {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	color: #CCCCCC;
+	font-size: 10px;
+}
+
+th {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	color: #CCCCCC;
+	font-size: 10px;
+}
+
+a {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	font-style: bold;
+}
