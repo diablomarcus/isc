@@ -8,7 +8,7 @@
   </table>
   <table width="780" height="224" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
     <tr>
-      <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1"><a href="index.php">home</a> :: <a href="industry.php">industrial operations</a> :: defense :: <a href="contact.php">contact</a></div></td>
+      <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1"><a href="index.php">home</a> :: <a href="industry.php">industrial operations</a> :: <a href="IDF.php">defense</a> :: <a href="contact.php">contact</a></div></td>
     </tr>
     <tr>
       <td height="181" align="left" valign="top" background="images/styling/bg/image_-_bg_-_table_001.gif"><div align="center">
