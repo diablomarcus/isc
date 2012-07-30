@@ -14,6 +14,7 @@
               <p><strong>IMM</strong> also maintains large stocks of common building materials in case of a siege or other disruption to normal mining modes.              </p>
               <p class="style3">Special Contracts :: </p>
               <p>If you are interested in employing <strong>Israeli Military Mining </strong>on a special contractual basis for commons or deep space rares mining, contact <strong>Yoseph Cohen</strong> via <strong>EVEMail</strong>.</p>
+              <p><strong>Israeli Military Mining</strong> rewards its miners with a guaranteed rate on minerals, ore, and fuel harvested near its headquarters that fluctuates on a system tracking the market price of minerals. The current rates can be found <strong><a href="mineral_prices.php">here</a></strong>.</p>
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p>
