@@ -63,7 +63,7 @@
             <td width="10">&nbsp;</td>
             <td width="345" align="left"><img src="images/styling/branch_frame/image_-_branch_frame_-_IDF.jpg" width="343" height="169">
               <p><span class="style3">IDF Recruiting ::</span></p>
-              <p align="center"><img src="images/image_-_uncle_joe.jpg" width="320" height="314"></p>
+              <p align="center"><img src="images/propaganda/image_-_uncle_joe.jpg" width="320" height="314"></p>
               <p>&nbsp;</p>
               <p>The IDF is looking for a few good men and women. Do you have what it takes to fly with the best? We are currently recruiting combat pilots of all stripes - </p>
               <ul>

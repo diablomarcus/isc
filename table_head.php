@@ -11,4 +11,4 @@
       <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1"><a href="index.php">home</a> :: <a href="industry.php">industrial operations</a> :: <a href="IDF.php">defense</a> :: <a href="contact.php">contact</a></div></td>
     </tr>
     <tr>
-      <td height="181" align="left" valign="top" background="images/styling/bg/image_-_bg_-_table_001.gif"><div align="center">
+      <td height="181" align="left" valign="top" class="table_bg"><div align="center">
