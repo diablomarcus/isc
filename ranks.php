@@ -1,41 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>ISC :: Ranks</title>
-<style type="text/css">
-<!--
-body,td,th {
-	color: #E0DFE3;
-}
-body {
-	background-color: #000000;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	background-image: url(images/image_-_bg_-_hexes_001.gif);
-}
--->
-</style>
-<link href="isc_site.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.style1 {
-	font-size: 10px;
-	font-weight: bold;
-}
-.style3 {
-	color: #F5F0AE;
-	font-weight: bold;
-	font-size: 12px;
-}
-.style4 {color: #F5F0AE; font-weight: bold; font-size: 10px; }
--->
-</style>
-</head>
-
+<?php include("header.php"); ?>
 <body>
 <div align="center">
   <table width="780" height="119" border="0" cellpadding="0" cellspacing="0">
@@ -46,7 +9,7 @@ body {
   </table>
   <table width="780" height="224" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
     <tr>
-      <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1"><a href="index.htm">home</a> :: <a href="industry.htm">industrial operations</a> :: <a href="IDF.htm">defense</a> :: <a href="contact.htm">contact</a></div></td>
+      <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1"><a href="index.php">home</a> :: <a href="industry.php">industrial operations</a> :: <a href="IDF.php">defense</a> :: <a href="contact.php">contact</a></div></td>
     </tr>
     <tr>
       <td height="181" align="left" valign="top" background="images/styling/bg/image_-_bg_-_table_001.gif"><div align="center">

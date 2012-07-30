@@ -1,42 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Israeli Space Corporation :: We Want You!</title>
-<style type="text/css">
-<!--
-body,td,th {
-	color: #E0DFE3;
-}
-body {
-	background-color: #000000;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	background-image: url(images/styling/bg/image_-_bg_-_hexes_001.gif);
-}
--->
-</style>
-<link href="isc_site.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.style1 {
-	font-size: 10px;
-	font-weight: bold;
-}
-.style2 {font-size: 10px}
-.style3 {
-	color: #F5F0AE;
-	font-weight: bold;
-}
-.style4 {font-size: 14px}
-.style5 {color: #F5F0AE; font-weight: bold; font-size: 10px; }
--->
-</style>
-</head>
-
+<?php include("header.php"); ?>
 <body>
 <div align="center">
   <table width="780" height="119" border="0" cellpadding="0" cellspacing="0">
@@ -47,7 +9,7 @@ body {
   </table>
   <table width="780" height="224" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
     <tr>
-      <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1">home :: <a href="industry.htm">industrial operations</a> ::  <a href="IDF.htm">defense</a> :: <a href="contact.htm">contact</a></div></td>
+      <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1">home :: <a href="industry.php">industrial operations</a> ::  <a href="IDF.php">defense</a> :: <a href="contact.php">contact</a></div></td>
     </tr>
     <tr>
       <td height="181" align="left" valign="top" background="images/styling/bg/image_-_bg_-_table_001.gif"><div align="center">
@@ -74,11 +36,11 @@ body {
             <td width="350" background="images/styling/bg/image_-_bg_-_table_cellborder_001.gif"><table width="350" height="144" border="0" cellpadding="4" cellspacing="0">
               <tr valign="top">
                 <td width="80" height="144" align="center"><p align="center" class="style2"><span class="style3"><span class="style4">IDF</span><br>
-                          <a href="IDF.htm">Israeli<br>
+                          <a href="IDF.php">Israeli<br>
         Defence<br>
         Force</a></span><br>
         <br>
-        <a href="IDF.htm"><img src="images/badge/badge_-_defense_-_S.jpg" width="75" height="75" border="0"></a></p></td>
+        <a href="IDF.php"><img src="images/badge/badge_-_defense_-_S.jpg" width="75" height="75" border="0"></a></p></td>
                 <td width="244" align="left" class="style2"><p>The <strong>IDF</strong> provides the military backbone to all <strong>ISC</strong> activities and its mission includes the eradication and suppression of both NPC and PC pirate forces engaged in hostile actions towards ISC members and holdings. </p>
                     <p> The <strong>IDF</strong> also defends <strong>ISC</strong> in corporate wars, and in due time, may engage in profit earning by providing mercenary services. The <strong>IDF</strong> is divided into various fleets, sub fleets, and formations.</p>
                     <br>
@@ -90,7 +52,7 @@ body {
             <td width="350" background="images/styling/bg/image_-_bg_-_table_cellborder_001.gif"><table width="350" height="75" border="0" cellpadding="4" cellspacing="0">
               <tr valign="top">
                 <td width="80" align="center"><p align="center" class="style2"><span class="style3"><span class="style4">IMM</span><br>
-                          <a href="industry.htm#IMM" target="_top">Israeli<br>
+                          <a href="industry.php#IMM" target="_top">Israeli<br>
         Military<br>
         Mining</a></span><br>
         <br>
@@ -113,7 +75,7 @@ body {
             <td width="350" background="images/styling/bg/image_-_bg_-_table_cellborder_001.gif"><table width="350" height="75" border="0" cellpadding="4" cellspacing="0">
               <tr valign="top">
                 <td width="81" align="center"><p align="center" class="style2"><span class="style3"><span class="style4">IMI</span><br>
-                      <a href="industry.htm#IMI">Israeli<br>
+                      <a href="industry.php#IMI">Israeli<br>
         Military<br>
         Industries</a></span><br>
         <br>
@@ -126,7 +88,7 @@ body {
             <td width="350" background="images/styling/bg/image_-_bg_-_table_cellborder_001.gif"><table width="350" height="144" border="0" cellpadding="4" cellspacing="0">
               <tr valign="top">
                 <td width="80" height="144" align="center"><p align="center" class="style2"><span class="style3"><span class="style4">IMR</span><br>
-                      <a href="industry.htm#IMR">Israeli<br>
+                      <a href="industry.php#IMR">Israeli<br>
         Military<br>
         Research</a></span><br>
         <br>
@@ -146,7 +108,7 @@ body {
             <td width="700" background="images/styling/bg/image_-_bg_-_table_cellborder_001.gif">                <table width="350" height="75" border="0" align="center" cellpadding="4" cellspacing="0">
                 <tr valign="top">
                   <td width="81" align="center"><p align="center" class="style2"><span class="style3"><span class="style4">IED</span><br>
-                            <a href="industry.htm#IED">Israeli<br>
+                            <a href="industry.php#IED">Israeli<br>
           Exploration<br>
           Division</a></span><br>
           <br>

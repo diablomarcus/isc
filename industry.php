@@ -1,41 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>ISC :: Israeli Military Mining</title>
-<style type="text/css">
-<!--
-body,td,th {
-	color: #E0DFE3;
-}
-body {
-	background-color: #000000;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	background-image: url(images/styling/bg/image_-_bg_-_hexes_001.gif);
-}
--->
-</style>
-<link href="isc_site.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.style1 {
-	font-size: 10px;
-	font-weight: bold;
-}
-.style3 {
-	color: #F5F0AE;
-	font-weight: bold;
-	font-size: 12px;
-}
-.style5 {font-size: 14px}
--->
-</style>
-</head>
-
+<?php include("header.php"); ?>
 <body>
 <div align="center">
   <table width="780" height="119" border="0" cellpadding="0" cellspacing="0">
@@ -46,7 +9,7 @@ body {
   </table>
   <table width="780" height="224" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
     <tr>
-      <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1"><a href="index.htm">home</a> :: industrial operations :: <a href="IDF.htm">defense</a> :: <a href="contact.htm">contact</a> </div></td>
+      <td height="15" valign="top" background="images/styling/bg/image_-_bg_-_table_shadow_-_top_001.gif"><div align="center" class="style1"><a href="index.php">home</a> :: industrial operations :: <a href="IDF.php">defense</a> :: <a href="contact.php">contact</a> </div></td>
     </tr>
     <tr>
       <td height="181" align="left" valign="top" background="images/styling/bg/image_-_bg_-_table_001.gif"><div align="center">
@@ -60,7 +23,7 @@ body {
               <p>&nbsp;</p>
               <p class="style3">IMM Equipment :: </p>
               <p><strong>Israeli Military Mining</strong> primarily uses a mixture of mining barges and exhumers. These ships are outfitted with Strip and Ice Miners, and are supported by Orca and Rorqal Industrial Capital Ships. </p>
-              <p>The focus is on medium grade ore and ice, to further the military aims of the <strong>Israeli Space Corporation</strong> and <a href="IDF.htm"><strong>Israeli Defense Forces</strong></a>. </p>
+              <p>The focus is on medium grade ore and ice, to further the military aims of the <strong>Israeli Space Corporation</strong> and <a href="IDF.php"><strong>Israeli Defense Forces</strong></a>. </p>
               <p><strong>IMM</strong> also maintains large stocks of common building materials in case of a siege or other disruption to normal mining modes.              </p>
               <p class="style3">Special Contracts :: </p>
               <p>If you are interested in employing <strong>Israeli Military Mining </strong>on a special contractual basis for commons or deep space rares mining, contact <strong>Yoseph Cohen</strong> via <strong>EVEMail</strong>.</p>
