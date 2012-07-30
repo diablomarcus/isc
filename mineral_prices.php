@@ -4,7 +4,7 @@
         <table width="700" height="148" border="0" cellpadding="0" cellspacing="0">
           <tr valign="top">
             <td width="345" align="left">
-            <iframe id='google_doc' width='352' height='1250' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AncM79JXO4EWdE9uZElSNHFJRmw2ajVSMnFUOVF5MEE&single=true&gid=2&range=a1%3Ab65&output=html&widget=false'></iframe>
+            <iframe id='google_doc' width='362' scrolling='no' height='1250' style="background-color:transparent" allowtransparency="true" frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AncM79JXO4EWdE9uZElSNHFJRmw2ajVSMnFUOVF5MEE&single=true&gid=2&range=a1%3Ac65&output=html&widget=false'></iframe>
             </td>
             <td width="10">&nbsp;</td>
             <td width="345" align="left">
