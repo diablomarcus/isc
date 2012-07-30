@@ -3,7 +3,7 @@
         <br>
         <table width="700" height="148" border="0" cellpadding="0" cellspacing="0">
           <tr valign="top">
-            <td width="345" align="left"><p><span class="style3"><span class="style5"><img src="images/header/image_-_header_-_IMM.gif" width="345" height="25"></span></span></p>
+            <td width="345" align="left"><p><span class="style3"><span class="style5"><img id="IMM" src="images/header/image_-_header_-_IMM.gif" width="345" height="25"></span></span></p>
               <p>              <span class="style3">Mission ::<br>
                     </span><br>
                 <strong>::</strong> To provide a consistent, high volume stream of minerals, ice products and other raw materials to <strong>Israeli Military Industries</strong> and promote the profits of the <strong>Israeli Space Corporation</strong>.</p>
@@ -35,7 +35,7 @@
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
-<p><span class="style3"><span class="style5"><img src="images/header/image_-_header_-_IMR.gif" alt="" width="345" height="25"></span></span></p>
+<p><span class="style3"><span class="style5"><img id="IMR" src="images/header/image_-_header_-_IMR.gif" alt="" width="345" height="25"></span></span></p>
 <p> <span class="style3">Mission ::<br>
   </span><br>
   <strong>::</strong> IMR is a invitation only division of ISC; focused on research of existing Tech 1 blueprints to maximize profit margins, and on Tech 2 Invention to lead to new ISC innovation. Recruiting is only open on a &quot;as-needed&quot; basis. IMR is also responsable for operating ISC's research POS. </p>
@@ -53,7 +53,7 @@
               <p><img src="images/styling/branch_frame/image_-_branch_frame_-_IMM.jpg" width="343" height="169"></p>
               <p><img src="images/propaganda/isc_propaganda_1_small.jpg" width="380" height="486"></p>
 <p align="center">&nbsp;</p>
-              <p align="center"><span class="style3"><span class="style5"><img src="images/header/image_-_header_-_IMI.gif" alt="" width="345" height="25"></span></span></p>
+              <p align="center"><span class="style3"><span class="style5"><img id="IMI" src="images/header/image_-_header_-_IMI.gif" alt="" width="345" height="25"></span></span></p>
               <p> <span class="style3">Mission ::<br>
                 </span><br>
                 <strong>::</strong> <strong>Israeli Military Industries</strong> is the industrial arm of the Israeli Space Corporation. It specializes in crafting high grade frigate, cruiser, battlecruiser, and battleship chasis, along with ship components and ammunition.</p>
@@ -69,7 +69,7 @@
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p>
-              <p align="center"><img src="images/header/image_-_header_-_IED.gif" width="360" height="25"></p>
+              <p align="center"><img id="IED" src="images/header/image_-_header_-_IED.gif" width="360" height="25"></p>
               <p align="center">&nbsp;</p>
               <p> <span class="style3">Mission ::<br>
                 </span><br>
