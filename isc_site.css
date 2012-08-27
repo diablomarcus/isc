@@ -1,29 +1,45 @@
 body { 
-  	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
-	color: #CCCCCC;
- 	font-size: 10px;
+   font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+   color: #CCCCCC;
+   font-size: 10px;
 }
 
 td {
-	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
-	color: #CCCCCC;
-	font-size: 10px;
-	padding: .4em;
+   font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+   color: #CCCCCC;
+   font-size: 1em;
+   padding: .4em;
 }
 
 th {
-	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
-	color: #CCCCCC;
-	font-size: 10px;
+   font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+   color: #CCCCCC;
+   font-size: 1.2em;
 }
 
 a {
-	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
-	color: #FFFFFF;
-	font-size: 10px;
-	font-style: bold;
+   font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+   color: #FFFFFF;
+   font-size: 10px;
+   font-style: bold;
 }
 
 .table_bg {
    background-color: #242424;
+}
+
+input.price {
+   background-color: #242424;
+   font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+   color: #CCCCCC;
+   width: 40%;
+}
+
+div.price {
+   font-size: 5em;
+   font-style: bold;
+   color: #CCCCCC;
+   position: fixed;
+   right: 25%;
+   top: 120px;
 }
