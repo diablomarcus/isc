@@ -28,11 +28,21 @@ a {
    background-color: #242424;
 }
 
+.item_price {
+   z-index: 1;
+}
+
+.item_label {
+   z-index: 1;
+}
+
 input.price {
    background-color: #242424;
    font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
    color: #CCCCCC;
    width: 40%;
+   position: relative;
+   z-index: 1;
 }
 
 div.price {

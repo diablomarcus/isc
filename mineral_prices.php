@@ -37,10 +37,6 @@
       }
    </script>
 
-   <div class="price">
-      <p id="totalPrice">&nbsp;</p>
-      <p><img src="images/image_-_logo_-_ISC_grayscale_-_S.gif" width="152" height="150"></p>
-   </div>
    <table width="700" height="148" border="0" cellpadding="0" cellspacing="0">
           <tr valign="top">
             <td align="left">
@@ -90,5 +86,9 @@
   <p><br>
   </p>
 </div>
+   <div class="price">
+      <p id="totalPrice">&nbsp;</p>
+      <p><img src="images/image_-_logo_-_ISC_grayscale_-_S.gif" width="152" height="150"></p>
+   </div>
 </body>
 </html>
