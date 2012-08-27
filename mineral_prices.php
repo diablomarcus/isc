@@ -45,14 +45,20 @@
           <tr valign="top">
             <td align="left">
               <table id="price_table">
-                <tr><th>Item</th><th>Price/Item&nbsp;&nbsp;&nbsp;&nbsp;</th><th>Amount</th></tr>
+                <tr><th>Item</th><th>ISK/Item&nbsp;&nbsp;&nbsp;&nbsp;</th><th>Amount</th></tr>
                 <?php
                   $current_prices = file_get_contents("https://docs.google.com/spreadsheet/pub?key=0AncM79JXO4EWdE9uZElSNHFJRmw2ajVSMnFUOVF5MEE&single=true&gid=2&output=txt");
                   $prices=explode('-', $current_prices);
                   for ($i=1; $i<(sizeof($prices)-1); $i++) {
                      $value=trim($prices[$i]);
-                     $item=trim(strstr($value, "\t", true));
-                     $price=trim(strstr($value, "\t"));
+
+                     #Thanks to peter@olds.com for this pre-5.3 strstr() code
+                     $fir = $first = explode( "\t", $value );
+                     unset( $fir[0] );
+                     $end = ltrim( implode( "\t", $fir ) );
+
+                     $item=trim($first[0]);
+                     $price=trim($end);
                      if ($price!=''){
                         echo '<tr><td class="item_label">',$item,'</td>';
                         echo '<td class="item_price">',$price,'</td>';
